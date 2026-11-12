@@ -93,8 +93,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/straytripod/GlitchSoftphone.git
-        tag: v0.1.3
-        commit: 381eacaf4db003f944c9895a17a9d0179a5208a7
+        tag: v0.1.4
+        commit: 4fcba6ead43dd798fbcf075e041f8e8941796ed8
       - type: script
         dest-filename: glitch-softphone.sh
         commands:
